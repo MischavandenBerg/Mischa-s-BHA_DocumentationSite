@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the BioHack Academy documentation site of Mischa van den Berg
+###This is the BioHack Academy documentation site of Mischa van den Berg###
