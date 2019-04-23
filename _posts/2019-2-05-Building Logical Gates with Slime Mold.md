@@ -1,5 +1,3 @@
-# Building Logical Gates with Slime Mold
-
 ## A JOURNEY IN PROGRESS
 
 
